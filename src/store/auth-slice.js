@@ -1,1 +1,1 @@
-import  from "react-redux";
+import  react from "react";
