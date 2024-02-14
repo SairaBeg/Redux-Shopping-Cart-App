@@ -12,6 +12,8 @@ const cartSlice = createSlice({
       const newItem = action.payload;
     },
     removeFromCart() {},
-    setShowCart(state)
+    setShowCart(state){
+      
+    }
   },
 });
